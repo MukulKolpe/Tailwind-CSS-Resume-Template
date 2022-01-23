@@ -1,0 +1,14 @@
+{
+  "name": "tailwind_workshop",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build-tailwind": "npx tailwindcss -i tailwind.css -o ./dist/out.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.10"
+  }
+}
